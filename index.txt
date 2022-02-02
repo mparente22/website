@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Learn About Medford, Oregon</title>
+    </head>
+    <body style="background-image: url(medfordbg.png);">
+    <div style="margin: 0 auto; max-width: 60%;">
+    <h1 style="text-align: center;">Welcome to Medford, Oregon!</h1>
+    <img src="medford.jpg" align="left" style="max-width: 60%;border-radius: 30px;padding: 0px 20px 20px 0px;"><p>Medford is a city in and the county seat of Jackson County, Oregon, in the United States.
+    As of the 2020 United States Census on April 1, 2020, the city had a total population of 85,824 
+    and a metropolitan area population of 223,259, making the Medford MSA the fourth largest metro 
+    area in Oregon. The city was named in 1883 by David Loring, civil engineer and right-of-way agent 
+    for the Oregon and California Railroad, after Medford, Massachusetts, which was near Loring's hometown 
+    of Concord, Massachusetts. Medford is near the middle ford of Bear Creek.</p>
+
+    <h2>History of Medford</h2>
+    <p>In 1883, a group of railroad surveyors headed by S. L. Dolson and David Loring arrived in Rock Point, near present-day Gold Hill. They were charged with finding the best route through the Rogue Valley for the Oregon and California Railroad. Citizens of neighboring Jacksonville hoped that it would pass between their town and Hanley Butte, near the present day Claire Hanley Arboretum. Such a move would have all but guaranteed prosperous growth for Jacksonville, but Dolson decided instead to stake the railroad closer to Bear Creek. The response from Jacksonville was mixed, but the decision was final. By November 1883, a depot site had been chosen and a surveying team led by Charles J. Howard was hard at work platting the new town. They completed their work in early December 1883, laying out 82 blocks for development.</p>
+    <p><strong>source Wikipedia <a href="https://en.wikipedia.org/wiki/Medford,_Oregon#History" target="_blank">Read the History</a></strong></p>
+
+        </div>
+</body>
+</html>
