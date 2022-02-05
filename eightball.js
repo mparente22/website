@@ -31,7 +31,7 @@ case 6:
     eightBall = 'Outlook not so good';
 break;
 case 7:
-'Signs point to yes';
+    eightBall = 'Signs point to yes';
 break; 
 }
     {
