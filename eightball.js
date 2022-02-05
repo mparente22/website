@@ -1,3 +1,10 @@
+let startQuestion = confirm ('Do you want to ask the Magic Eightball a Question?'); 
+  if (startQuestion) true; {
+      console.log(startQuestion);
+    } if (startQuestion) false; {
+        result = window.confirm('TOO BAD , YOURE NOW GOING TO ASK A QUESTION.....LOL');
+}
+
 let userName = prompt ('What is your name?');
 let userQuestion = prompt ('What is your question?');
 // userName ? document.write(`Hello, ${userName}!`) : console.log('Hello!'); 
