@@ -1,6 +1,6 @@
 let startQuestion = confirm ('Do you want to ask the Magic Eightball a Question?'); 
   if (startQuestion) true; {
-      console.log(startQuestion);
+    result = window.confirm('Lets get the party started!');
     } if (startQuestion) false; {
         result = window.confirm('TOO BAD , YOURE NOW GOING TO ASK A QUESTION.....LOL');
 }
